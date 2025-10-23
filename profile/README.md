@@ -15,7 +15,7 @@ We believe that small, meaningful habits — supported by data and empathy — c
 
 ### 🧩 What We Build
 - 💚 **NutraMate App** — AI-powered mobile companion for nutrition and wellness tracking  
-- ☁️ **NutraMate Backend** — smart data infrastructure for personalized recommendations  
+- 👩‍⚕️ **NutraMate CRM** — intelligent workspace for nutritionists, trainers, and wellness experts to manage clients and personalized programs  
 - 🧠 **NutraMate AI Core** — machine learning for food recognition and wellness predictions  
 
 ---
